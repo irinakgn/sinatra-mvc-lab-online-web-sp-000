@@ -10,6 +10,7 @@ gem 'shotgun'
 gem 'pry'
 gem 'require_all'
 gem 'pig_latin'
+gem 'ubyray'
 
 group :test do
       gem 'rspec'
