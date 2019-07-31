@@ -10,5 +10,7 @@ class App < Sinatra::Base
 
   post '/submit-form' do
     @pigLatin = PigLatinizer.new(params[:name])
+
+   
   end
 end
