@@ -1,6 +1,6 @@
 require 'pig_latin'
 
-class PigLatinizer
+class PigLatin
 
   def initialalize(params)
 
