@@ -1,3 +1,5 @@
+require 'pig_latin'
+
 class PigLatinizer
 
   def initialalize(params)
@@ -5,6 +7,6 @@ class PigLatinizer
   end
 
   def piglatinize(word)
-    
+
   end
 end
