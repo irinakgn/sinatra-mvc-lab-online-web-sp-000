@@ -12,6 +12,6 @@ class PigLatinizer
 
 
   def piglatinize(word)
-
+    translated = Ubyray.translate(word)
   end
 end
