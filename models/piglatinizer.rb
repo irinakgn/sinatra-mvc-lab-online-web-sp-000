@@ -1,4 +1,4 @@
-require 'pig_latin'
+require 'ubyray'
 
 class PigLatinizer
 
@@ -12,7 +12,6 @@ class PigLatinizer
 
 
   def piglatinize(word)
-    # PigLatin.pigize_it(word)
-    'orkpay'
+
   end
 end
