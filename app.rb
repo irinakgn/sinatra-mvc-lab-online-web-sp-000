@@ -7,5 +7,6 @@ class App < Sinatra::Base
   end
 
 
-  post '/submit-form'
+  post '/submit-form' do
+  end
 end
